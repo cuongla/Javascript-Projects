@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "title": "Detect Pressed Key",
+      "fileName": "/Detect Pressed Key/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308443/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.37_PM_i5akzs.png"
+    },
+    {
+      "title": "Image Gallery",
+      "fileName": "/Image Gallery/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.52_PM_haj5qp.png"
+    },
+    {
+      "title": "Infinity Scroll",
+      "fileName": "/Infinity Scroll/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.04_PM_dwlvy3.png"
+    },
+    {
+      "title": "Joke Teller",
+      "fileName": "/Joke Teller/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308442/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.17_PM_i1eukb.png"
+    },
+    {
+      "title": "Modal Popup",
+      "fileName": "/Modal Popup/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308637/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.06_PM_istfjq.png"
+    },
+    {
+      "title": "Picture In Picture",
+      "fileName": "/Picture In Picture/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308631/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.27_PM_n732np.png"
+    },
+    {
+      "title": "Product Card",
+      "fileName": "/Product Card/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308634/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.40_PM_evt3rp.png"
+    },
+    {
+      "title": "Profile Card",
+      "fileName": "/Profile Card/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308639/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.54_PM_f5bk3g.png"
+    },
+    {
+      "title": "Quote Generator",
+      "fileName": "/Quote Generator/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308766/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.13_PM_tvybyc.png"
+    },
+    {
+      "title": "Search Box",
+      "fileName": "/Search Box/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308769/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.28_PM_dooxii.png"
+    },
+    {
+      "title": "Search Tags",
+      "fileName": "/Search Tags/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308765/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.53_PM_isv1gw.png"
+    },
+    {
+      "title": "Validation Form",
+      "fileName": "/Validation Form/index.html",
+      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308770/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.19.05_PM_gzr0dh.png"
+    }
+  ]
+}
