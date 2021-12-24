@@ -76,9 +76,9 @@ async function getProjectsData() {
             .then(res => res.json())
             .then(data => {
                 projectsData = Object.values(data.projects);
-                stopLoading();
             });
         displayProjects();
+        stopLoading();
     } catch (error) {
         console.log('An Error Occured', error);
     }
