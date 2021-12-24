@@ -3,62 +3,86 @@
     {
       "title": "Detect Pressed Key",
       "fileName": "/Detect Pressed Key/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308443/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.37_PM_i5akzs.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308443/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.37_PM_i5akzs.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Detect%20Pressed%20Key"
     },
     {
       "title": "Image Gallery",
       "fileName": "/Image Gallery/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.52_PM_haj5qp.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.09.52_PM_haj5qp.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Image%20Gallery"
     },
     {
       "title": "Infinity Scroll",
       "fileName": "/Infinity Scroll/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.04_PM_dwlvy3.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308451/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.04_PM_dwlvy3.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Infinity%20Scroll"
     },
     {
       "title": "Joke Teller",
       "fileName": "/Joke Teller/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308442/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.17_PM_i1eukb.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308442/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.10.17_PM_i1eukb.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Joke%20Teller"
     },
     {
       "title": "Modal Popup",
       "fileName": "/Modal Popup/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308637/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.06_PM_istfjq.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308637/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.06_PM_istfjq.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Modal%20Popup"
     },
     {
       "title": "Picture In Picture",
       "fileName": "/Picture In Picture/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308631/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.27_PM_n732np.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308631/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.27_PM_n732np.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Picture%20In%20Picture"
     },
     {
       "title": "Product Card",
       "fileName": "/Product Card/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308634/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.40_PM_evt3rp.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308634/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.40_PM_evt3rp.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Product%20Card"
     },
     {
       "title": "Profile Card",
       "fileName": "/Profile Card/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308639/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.54_PM_f5bk3g.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308639/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.16.54_PM_f5bk3g.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Profile%20Card"
     },
     {
       "title": "Quote Generator",
       "fileName": "/Quote Generator/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308766/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.13_PM_tvybyc.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308766/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.13_PM_tvybyc.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Quote%20Generator"
     },
     {
       "title": "Search Box",
       "fileName": "/Search Box/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308769/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.28_PM_dooxii.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308769/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.28_PM_dooxii.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Search%20Box"
     },
     {
       "title": "Search Tags",
       "fileName": "/Search Tags/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308765/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.53_PM_isv1gw.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308765/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.18.53_PM_isv1gw.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Search%20Tags"
     },
     {
       "title": "Validation Form",
       "fileName": "/Validation Form/index.html",
-      "image": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308770/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.19.05_PM_gzr0dh.png"
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640308770/Javascript%20Projects/Screen_Shot_2021-12-23_at_5.19.05_PM_gzr0dh.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Validation%20Form"
+    },
+    {
+      "title": "Light Dark Mode",
+      "fileName": "/Light Dark Mode/index.html",
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640327028/Javascript%20Projects/Screen_Shot_2021-12-23_at_8.45.17_PM_z8edov.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Light%20Dark%20Mode"
+    },
+    {
+      "title": "Animated Template",
+      "fileName": "/Animated Template/index.html",
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640327041/Javascript%20Projects/Screen_Shot_2021-12-23_at_10.20.17_PM_hccen1.png",
+      "github": ""
     }
   ]
 }
