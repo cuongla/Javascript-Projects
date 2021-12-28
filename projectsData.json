@@ -83,6 +83,12 @@
       "fileName": "/Animated Template/index.html",
       "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640327041/Javascript%20Projects/Screen_Shot_2021-12-23_at_10.20.17_PM_hccen1.png",
       "github": ""
+    },
+    {
+      "title": "Music Player",
+      "fileName": "/Music Player/index.html",
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640670650/Javascript%20Projects/Screen_Shot_2021-12-27_at_9.50.11_PM_y2gibv.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Music%20Player"
     }
   ]
 }
