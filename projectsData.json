@@ -89,6 +89,12 @@
       "fileName": "/Music Player/index.html",
       "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640670650/Javascript%20Projects/Screen_Shot_2021-12-27_at_9.50.11_PM_y2gibv.png",
       "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Music%20Player"
+    },
+    {
+      "title": "Custom Countdown",
+      "fileName": "/Custom Countdown/index.html",
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640680234/Javascript%20Projects/Screen_Shot_2021-12-28_at_12.30.09_AM_a6kp0s.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Custom%20Countdown"
     }
   ]
 }
