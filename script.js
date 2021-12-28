@@ -3,6 +3,7 @@ const projectContainer = document.querySelector('.projects-container');
 const loaderContainer = document.querySelector('.loader-container');
 
 let projectsData = [];
+let isLoading = false;
 const rootProject = '/projects';
 
 function loading() {
@@ -70,15 +71,19 @@ function displayProjects() {
 }
 
 async function getProjectsData() {
+    isLoading = true;
     try {
-        loading();
+        if (isLoading) loading();
         await fetch('./projectsData.json')
             .then(res => res.json())
             .then(data => {
                 projectsData = Object.values(data.projects);
+                isLoading = false;
             });
-        displayProjects();
-        stopLoading();
+        if (!isLoading) {
+            displayProjects();
+            stopLoading();
+        }
     } catch (error) {
         console.log('An Error Occured', error);
     }
