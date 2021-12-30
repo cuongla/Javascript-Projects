@@ -95,6 +95,12 @@
       "fileName": "/Custom Countdown/index.html",
       "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640680234/Javascript%20Projects/Screen_Shot_2021-12-28_at_12.30.09_AM_a6kp0s.png",
       "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Custom%20Countdown"
+    },
+    {
+      "title": "Book Keeper",
+      "fileName": "/Book Keeper/index.html",
+      "imageUrl": "https://res.cloudinary.com/dqm3b7avx/image/upload/v1640846720/Javascript%20Projects/Screen_Shot_2021-12-29_at_10.44.46_PM_jfz6bg.png",
+      "github": "https://github.com/cuongla/Javascript-Projects/tree/master/projects/Book%20Keeper"
     }
   ]
 }
